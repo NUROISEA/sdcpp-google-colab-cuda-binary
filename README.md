@@ -26,7 +26,7 @@ Same as the [official guide](https://github.com/leejet/stable-diffusion.cpp/blob
 
 # Binaries
 
-Will be in the releases. Updated manually. Same naming scheme as the original repo.
+Will be in the [releases](https://github.com/NUROISEA/sdcpp-google-colab-binary/releases). Updated manually. Same naming scheme as the original repo.
 
 # Repo trust
 
